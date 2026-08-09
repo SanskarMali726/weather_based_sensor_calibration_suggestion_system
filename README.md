@@ -265,7 +265,7 @@ College: `DYPCOE Akurdi Pune`
 https://github.com/SanskarMali726/weather_based_sensor_calibration_suggestion_system
 
 
-**Demo Video:** `Add URL`
+**Demo Video:**  https://www.youtube.com/watch?v=abrOQE9n7Kw
 
 ## 🙏 Acknowledgements
 
